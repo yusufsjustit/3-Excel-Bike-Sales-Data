@@ -63,3 +63,7 @@ The raw sales data sheet provides the granular detail needed for building the pi
 * `Country`, `State` (used for geographic analysis).
 * `Product_Category`, `Sub_Category`, `Product` (used for product mix analysis).
 * `Order_Quantity`, `Unit_Cost`, `Unit_Price`, `Profit`, `Cost`, `Revenue` (the measures used in all calculations).
+
+<img width="546" height="336" alt="image" src="https://github.com/user-attachments/assets/5ff5b56d-32a9-4253-9b77-a00b274c72e4" />
+
+  
