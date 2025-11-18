@@ -17,6 +17,8 @@ The annual breakdown shows a clear and consistent pattern of growth in both reve
 
 **Key Insight:** There was a significant acceleration in growth starting in 2020, with **2021 achieving the highest profit and revenue** of the entire period. This suggests the business is scaling successfully.
 
+<img width="602" height="279" alt="image" src="https://github.com/user-attachments/assets/9375e97e-63a7-41f3-a74b-3ed4873e52e2" />
+
 ## 2. Revenue Breakdown by Customer Age Group
 
 The visualization by age group highlights where the majority of the sales revenue originates, indicating the primary target demographic.
@@ -31,6 +33,8 @@ The visualization by age group highlights where the majority of the sales revenu
 
 **Key Insight:** The **Adults (35-64)** segment is the largest revenue driver, accounting for nearly half of all sales. Marketing efforts should continue to be heavily focused on this group.
 
+<img width="492" height="275" alt="image" src="https://github.com/user-attachments/assets/d420ab21-6639-4e52-83e8-fc6d367b470f" />
+
 ## 3. Revenue by Product Category and Country
 
 The pivot table combining country and product category reveals important geographic and product-specific performance metrics.
@@ -44,6 +48,8 @@ The pivot table combining country and product category reveals important geograp
 | France | \$1,627,689 | \$7,378,349 | \$841,175 | \$9,847,213 |
 | Canada | \$2,305,298 | \$4,317,696 | \$1,391,542 | \$8,014,536 |
 | **Grand Total** | **\$16,712,646** | **\$69,208,196** | **\$9,255,476** | **\$95,176,318** |
+
+<img width="455" height="281" alt="image" src="https://github.com/user-attachments/assets/4bf42451-3f53-4576-8fc7-f574ae14da5d" />
 
 **Key Insights:**
 * **Bikes are the core business:** Bikes generate the vast majority (over 70%) of the total revenue across all countries.
